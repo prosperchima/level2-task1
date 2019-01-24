@@ -1,0 +1,529 @@
+body{
+    background-color:whitesmoke !important;
+    width: 100%;
+}
+#top{
+    background-image: url(../images/hd-4.jpg);
+    /* height:750px; */
+    height: 117vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.d-wire{
+    margin-left: 48px;
+    background-color: #000;
+    padding: 5px 25px 5px 25px;
+    font-weight: bold;
+    border-radius: 2%;
+    color: #fff;
+}
+.nav-link{
+    margin-right:180px;
+    font-size: 12px;
+    color: rgb(58, 57, 57) !important;
+    margin-left: 0px;
+}
+.nav-move{
+    margin-left: -160px !important;
+}
+.large{
+    color: grey;
+    position: relative;
+    left: 120px;
+    top: 2px;
+}
+.p-create{
+    text-align: center;
+}
+.card-folio{
+    height: 180px !important;
+    width: 180px !important; 
+    align-self: center !important;
+}
+.h6-folio{
+    text-align: center;
+}
+.p-folio{
+    text-align: center;
+    color: orange;
+    font-size: 12px;
+}
+.protech{
+    height: 200px;
+    width: 200px;
+    background-color: #000;
+}
+.size{
+    width: 250px;
+    height:100px;
+}
+.l-btn{
+    background-color: orange;
+    border-radius: 2%;
+    position: relative;
+    left: 170px;
+}
+.n-btn{
+    background-color:orange;
+    border-radius: 2%;
+    position: relative;
+    left: 170px;
+    bottom: 30px;
+    text-align: center;
+}
+.navbar{
+    margin-top: 0px;
+    position: fixed !important;
+    width: 100%;
+    z-index: 100;
+
+}
+.navbar-brand{
+    color: #000 !important;
+    font-weight: bold;
+}
+.p-carol{
+    font-size: 35px;
+    font-weight: bold;
+    color: #fff;
+}
+.carousel-item{
+    margin-top: 250px;
+    margin-left: 0px;
+}
+.p-move{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 10px;
+}
+.p-move1{
+    margin-top: -350px;
+    margin-left: 125px;
+    /* padding-bottom: 80px; */
+}
+.icon-play{
+    position: relative;
+    top: 280px;
+}
+.f-card{
+    margin-top: 120px;
+}
+.card-img-top{
+	height: 240px;
+	width: 200px;
+}
+.card-img-top1{
+	height: 180px;
+    width: 240px;
+    padding-bottom: 30px;
+    border-radius: 2%;
+}
+.card-img-top2{
+	height: 180px;
+    width: 240px;
+    padding-top: 30px;
+    border-radius: 2%;
+}
+.card-img-top3{
+	height: 360px;
+    width: 240px;
+    border-radius: 2%;
+}
+.card-title{
+	text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.b-left{
+    border-left: 1px solid lightgrey;
+    padding-left:20px;
+    height: 60px;
+}
+.x-large{
+    position: relative;
+    right: 80px;
+    bottom:70px;
+    height: 50px;
+}
+.x-large1{
+    position: relative;
+    right: 65px;
+    bottom:70px;
+}
+.x-plus{
+    position: relative;
+    right: 30px;
+    bottom:41px;
+}
+.p-md{
+    margin-top: -30px;
+}
+.p-div{
+    padding-left: 30px;
+}
+.row1{
+    padding-left: 100px;
+}
+#prosper{
+    background-color:#fff;
+}
+.col-img{
+    background-image: url(../images/image-5.jpg);
+    height: 350px;
+    width: 480px;
+    background-position: center;
+    background-repeat: 100% 100%;
+
+}
+.s-box{
+    background-color: #fff;
+    height: 200px;
+    width: 350px;
+    color: #000;
+    position: relative;
+    top: 100px;
+    left: 170px;
+    padding: 30px;
+    cursor: pointer;
+}
+.p-box{
+    margin-top: -30px;
+    font-size: 14px;
+}
+.users-move{
+    position: relative;
+    left: 240px;
+    bottom: 160px;
+}
+.build-h4{
+    color:orange;
+}
+.team-icon{
+    position: relative;
+    right: 20px;
+}
+.btn{
+    background-color:orange;
+    color: #fff;
+    border-radius: 2%;
+    position: relative;
+    left: 250px;
+    top: 150px;
+    height: 60px;
+    width: 200px;
+}
+#gospel{
+    background-image: url(../images/hd-5.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    height: 480px;
+}
+.img-gospel{
+    height:60px;
+}
+.div-gospel{
+    margin-left: 150px;
+}
+.h4-scale{
+    color:#000;
+    text-align: center;
+}
+.p-scale{
+    text-align: center;
+}
+.card-scale{
+    text-align: left;
+    margin-left:140px;
+    color: rgb(49, 48, 48);
+}
+.scale{
+    margin-top: -50px;
+}
+.icon-scale{
+    position: relative;
+    top: 60px;
+    left: 40px;
+}
+.img-logo{
+    height: 35px;
+    width: 100%;
+}
+.btn1{
+    background-color:orange;
+    color: #fff;
+    border-radius: 2%;
+    position: relative;
+    left: 120px;
+    top: 150px;
+    height: 60px;
+    width: 200px;
+}
+#glory{
+    background-image: url(../images/hd-13.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    height: 480px;
+}
+.height-70vh{
+    height: 70vh;
+}
+.height-90vh{
+    height: 80vh;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    color: black !important;
+    background-color: white !important;
+    border: 0.5px solid gray;
+    border-radius: 0 !important;
+}
+.height-5{
+    height: 4px !important;
+}
+.progress-bar{
+    background-color: orange !important;
+}
+.badge-margin-80{
+    margin-left: 38%;
+}
+.badge-margin-75{
+    margin-left: 52%;
+}
+.badge-margin-60{
+    margin-left: 32%;
+}
+.badge-margin-50{
+    margin-left: 20%;
+}
+.normal-font-size-1{
+    font-size: 0.75rem;
+}
+.normal-font-size-1{
+    font-size: 0.9rem;
+}
+.girl-background{
+    background-image: url('../images/image-28.jpg');
+    background-size: 100% 100%;
+    border-radius: 5px;
+}
+.light{
+    font-size: 20px;
+    font-weight: bold;
+    color: #000;
+}
+.wire{
+    margin-left: 48px;
+    background-color: #000;
+    padding: 5px 25px 5px 25px;
+    font-weight: bold;
+    border-radius: 2%;
+    color: #fff;
+}
+.p-end{
+    font-size: 15px;
+    color: gray;
+}
+#myform{
+    border-right: 0px !important;
+}
+.go{
+    color: lightgray;
+}
+#owl2-carousel{
+    background-color: #fff;
+    padding: 20px;
+    font-size: 1rem;
+}
+.lst-img{
+    height: 50px;
+    width: 50px !important;
+}
+.roll{
+    margin-left: -40px;
+}
+.roll li{
+    margin-bottom: -5px;
+}
+.lst-p{
+   list-style: none;
+   padding-top:20px;
+   margin-left: 10px;
+   font-size: 15px;
+}
+.lst-p li{
+    padding: 5px 0px 5px 0px;
+}
+/*---- Small devices --- */
+@media(max-width: 576px){
+	#top{
+        background-image: url(../images/hd-4.jpg);
+       max-width: 100%;
+        height: 70vh;
+        background-size: 100% 100%;
+        background-position: center;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+    }
+	.p-carol{
+        font-size: 22px;
+        font-weight: bold;
+        color: #fff;
+    }
+    .carousel-item{
+        margin-top: 90px;
+        margin-left: 10px;
+    }
+    .p-move{
+        color: #fff;
+        font-size: 15px;
+        font-weight: 10px;
+    }
+    .p-move1{
+        margin-top: -330px;
+        margin-left: 15px;
+        text-align: center;
+    }
+    .icon-play{
+        position: relative;
+        top: 50px;
+    }
+    .nav-link{
+        margin-right:10px;
+        font-size: 12px;
+        color: #000 !important;
+        margin-left: 0px;
+        background-color: #fff;
+    }
+    .nav-move{
+        margin-left: 0px !important;
+    }
+    .large{
+       display: none !important;
+    }
+    .l-btn{
+       display: none !important;
+    }
+    .navbar{
+        width: 100%;
+        position: relative !important;
+    }
+    .navbar-brand{
+        color: #000 !important;
+        font-weight: bold;
+        margin-left: 20px;
+    }
+    #chima{
+        margin-top:300px;
+    }
+    .card{
+        padding: 30px 0px 30px 0px;
+    }
+    .b-left{
+        margin: 10px 0px 10px 0px;
+    }
+    .card-img-top3{
+        display: none;
+    }
+    .card-img-top2{
+        width: 20rem;
+        height: 14rem;
+    }
+    .card-img-top1{
+        width: 20rem;
+        height: 14rem;
+    }
+    .col-img{
+        display: none;
+    }
+    .btn{
+        left:75px;
+    }
+    .s-box{
+        display: none;
+    }
+    #gospel{
+        height: 800px;
+    }
+    .build-h4{
+        padding-left: 55px;
+    }
+    .build-p{
+        padding-left: 50px;
+    }
+    .img-box{
+        position: relative;
+        left: 140px;
+    }
+    .div-gospel{
+        position: relative;
+        top: 200px;
+        right: 130px;
+        padding-bottom: 90px;
+    }.gospel-h6{
+        font-size: 10px;
+        font-weight: bold;
+    }
+    .scale{
+        margin-top: 0px;
+    }
+    .icon-scale{
+       left: 10px;
+    }
+    .card-scale{
+        text-align: center;
+        margin-left:0px;
+        color: rgb(49, 48, 48);
+    }
+    .img-logo{
+        height: 30px;
+         width: 50%; 
+         margin-left: 30%;
+         margin-bottom: 30px;
+    }
+    #glory{
+        height: 800px;
+    }
+    .btn1{
+        top: 30px;
+    }
+    .f-gospel{
+       position: relative;
+       left: 140px;
+    }
+    .div-gospel{
+        position: relative;
+        right: 120px;
+    }
+    .gospel-h6{
+        font-size: 12px;
+    }
+    .girl-background{
+        visibility: hidden;
+    }
+    .hide-col{
+        display: none;
+    }
+    .roll{
+        padding-left: 10px;
+        margin-left: 20px;
+        font-size: 10px
+    }
+    
+}
+
+/* --- Medium devices ---*/
+@media(max-width: 993px){
+	
+	.p-move{
+        /* display: none; */
+    }
+}
+
+/* for large devices*/
+@media(min-width: 1030px){
+}
