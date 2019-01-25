@@ -214,6 +214,17 @@ body{
     height: 60px;
     width: 200px;
 }
+.btn2{
+    background-color:orange;
+    color: #fff;
+    border:0px !important;
+    margin-left: -80px;
+    height: 60px;
+    width: 200px;
+}
+#myform{
+    border: 0px;
+}
 #gospel{
     background-image: url(../images/hd-5.jpg);
     background-attachment: fixed;
@@ -368,6 +379,7 @@ body{
         background-position: center;
         background-attachment: fixed;
         background-repeat: no-repeat;
+       
     }
 	.p-carol{
         font-size: 22px;
@@ -382,6 +394,7 @@ body{
         color: #fff;
         font-size: 15px;
         font-weight: 10px;
+        /* display: none; */
     }
     .p-move1{
         margin-top: -330px;
@@ -515,6 +528,52 @@ body{
     }
     
 }
+
+@media(max-width: 640px){
+	
+	 .p-carol{
+        font-size: 22px;
+        font-weight: bold;
+        color: #fff;
+    }
+    .carousel-item{
+        margin-top: 150px;
+        margin-left: 10px;
+    }
+    .p-move{
+        color: #fff;
+        font-size: 15px;
+        font-weight: 10px;
+    }
+    .p-move1{
+        margin-top: -330px;
+        margin-left: 15px;
+        text-align: center;
+    }
+    .icon-play{
+        position: relative;
+        top: 20px;
+    }
+    .div-gospel{
+        right: 105px;
+    }
+    .num1{
+        display: none;
+    }
+    .num2{
+        display: none;
+    }
+    .num3{
+        margin-top: 70px;
+    }
+    .form-row{
+        display: none !important;
+    }
+    .logo-move{
+       margin-top: 600px !important;
+    }
+    
+    } 
 
 /* --- Medium devices ---*/
 @media(max-width: 993px){
