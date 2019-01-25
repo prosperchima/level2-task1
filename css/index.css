@@ -381,6 +381,13 @@ body{
         background-repeat: no-repeat;
        
     }
+    #glory{
+        background-image: url(../images/hd-13.jpg) fixed no-repeat;
+        background-size:cover;
+        color: #fff;
+        height: auto;
+    }
+    
 	.p-carol{
         font-size: 22px;
         font-weight: bold;
@@ -467,6 +474,7 @@ body{
     }
     .build-p{
         padding-left: 50px;
+        
     }
     .img-box{
         position: relative;
@@ -526,6 +534,9 @@ body{
         margin-left: 20px;
         font-size: 10px
     }
+    .bf-logo{
+        height: auto;
+    }
     
 }
 
@@ -571,6 +582,9 @@ body{
     }
     .logo-move{
        margin-top: 600px !important;
+    }
+    .bf-logo{
+        padding-bottom: 20px;
     }
     
     } 
